@@ -9,11 +9,11 @@ The purpose of this analysis is to provide Steve with the programming he needs t
 
 ## Results
 
-The results for 2017 reflect all of the companies as trending in the positive (though vastly daring percentages of successfulness) with the exception of TERP. 
+The results for 2017 reflect all of the companies as trending in the positive (though vastly daring percentages of successfulness) with the exception of TERP (-7.2%).  
 
-! [2017 Results](Resources/VBA_Challenge_2017.png)
+Img src = "Resources/VBA_Challenge_2017.png" ![alt text]2017 Results
 
-The results for 2018 reflect a much less profitable return with the exception of ENPH and RUN. Since Green Energy is relatively a newer market; when comparing 2017 and 2018 it could be concluded that the two companies adapted to the economy and products that draw more interest. 
+The results for 2018 reflect a much less profitable return with the exception of ENPH +81.9%) and RUN (+84%). Since Green Energy is relatively a newer market; when comparing 2017 and 2018 it could be concluded that the two companies adapted to the economy and products that draw more interest. 
 
 ! [2018 Results](/Resources/VBA_Challenge_2018.png)
 
