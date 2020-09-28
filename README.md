@@ -15,7 +15,7 @@ The results for 2017 reflect all of the companies as trending in the positive (t
 
 The results for 2018 reflect a much less profitable return with the exception of ENPH +81.9%) and RUN (+84%). Since Green Energy is relatively a newer market; when comparing 2017 and 2018 it could be concluded that the two companies adapted to the economy and products that draw more interest. 
 
-! [2018 Results](/Resources/VBA_Challenge_2018.png)
+<img src="Resources/VBA_Challenge_2018.png" alt="2018 Results">
 
 ## Summary
 
